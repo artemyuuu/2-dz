@@ -46,6 +46,12 @@ public class Main {
                         operation = new Modulus(operand1, operand2);
                         break;
                     default:
+
+
+
+
+
+
                         System.out.println("Неверный ввод\n ");
                         continue;
                 }
